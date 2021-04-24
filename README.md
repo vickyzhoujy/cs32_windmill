@@ -1,1 +1,1 @@
-# cs32_windmill
+# Windmill
